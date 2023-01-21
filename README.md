@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá! Eu sou o Vinicius 👋
+
+- Hoje estou estudando JavaScript
+
+- Meu próximo passo é aprender React
+
+- Sou muito dedicado e é só questão de tempo até eu me tornar um programador 😊
+
+- Você por entrar em contato comigo pelo Twitter: @viniciustixuu pelo E-mail: tixureserva@gmail.com ou pelo telefone 55 35 9 91586672.
 
 <!--
 **viniciustixu/viniciustixu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
