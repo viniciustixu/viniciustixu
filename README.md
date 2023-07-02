@@ -1,6 +1,6 @@
 ## Olá eu sou o Vinicius, estudante de programação e tecnologia!
 
-Atualmente estou estudando React, e é só questão de tempo até eu me tornar um programador front-end 😊
+Atualmente estou estudando React com grande expectativa de conquistar minha primeira vaga na área de front-end.
 
 
 <div style="display: inline_block"><br>
@@ -8,6 +8,7 @@ Atualmente estou estudando React, e é só questão de tempo até eu me tornar u
   <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vinicius-GIT" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">
+  <img align="center" alt="Vinicius-React" height="30" width="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/react-js-icon.svg">
   <img align="right" alt="Vinicius-pic" height="150" style="border-radius:50px;" src="https://img001.prntscr.com/file/img001/6C4DAKHuTHqcFP6hj3KTSw.png">
 </div>
   
