@@ -1,6 +1,6 @@
 ## Olá eu sou o Vinicius, estudante de programação e tecnologia!
 
-Atualmente estou estudando React com grande expectativa de conquistar minha primeira vaga na área de front-end.
+Atualmente estou estudando React.
 
 
 <div style="display: inline_block"><br>
