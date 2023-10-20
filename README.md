@@ -1,6 +1,6 @@
 ## Olá eu sou o Vinicius, estudante de programação e tecnologia!
 
-Atualmente estou estudando React.
+Atualmente estou estudando web scraping.
 
 
 <div style="display: inline_block"><br>
