@@ -1,17 +1,15 @@
 ## Olá eu sou o Vinicius, apaixonado em tecnologia!
 
-Front-end developer
+Front-end developer <img align="center" alt="brazil-icon" height="15" width="15" src="https://www.svgrepo.com/show/248829/brazil.svg"> <img align="center" alt="usa-icon" height="15" width="15" src="https://www.svgrepo.com/show/508668/flag-us.svg"><br><br><br>
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div>
+  <img align="center" alt="js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="html-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git-icon" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
-  <img align="center" alt="react-icon" height="30" width="40" src="https://svgshare.com/i/wPi.svg">
-  <img align="right" alt="next-icon" height="30" width="40" src="https://www.svgrepo.com/show/368858/nextjs.svg">
-  <img align="right" alt="tailwind-icon" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg">
-   <img align="right" alt="dark-souls-solaire" height="150" style="border-radius:50px" src="https://img001.prntscr.com/file/img001/6C4DAKHuTHqcFP6hj3KTSw.png">
+  <img align="center" alt="react-icon" height="30" width="40" src="https://www.svgrepo.com/show/327388/logo-react.svg">
+  <img align="center" alt="next-icon" height="30" width="40" src="https://www.svgrepo.com/show/368858/nextjs.svg">
+  <img align="center" alt="tailwind-icon" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg">
+  <img align="right" alt="dark-souls-solaire" height="150" style="border-radius:50px" src="https://img001.prntscr.com/file/img001/6C4DAKHuTHqcFP6hj3KTSw.png">
 </div>
   
   ##
