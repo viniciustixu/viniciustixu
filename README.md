@@ -1,4 +1,4 @@
-## Olá eu sou o Vinicius, apaixonado em tecnologia!
+## Olá eu sou o Vinicius, bom te ver por aqui!
 
 Front-end developer <img align="center" alt="brazil-icon" height="15" width="15" src="https://www.svgrepo.com/show/248829/brazil.svg"> <img align="center" alt="usa-icon" height="15" width="15" src="https://www.svgrepo.com/show/508668/flag-us.svg"><br><br><br>
 
