@@ -10,6 +10,7 @@ Front-end developer <img align="center" alt="brazil-icon" height="15" width="15"
   <img align="center" alt="git-icon" height="30" width="40" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg">
   <img align="center" alt="react-icon" height="30" width="40" src="https://www.svgrepo.com/show/327388/logo-react.svg">
   <img align="center" alt="next-icon" height="30" width="40" src="https://www.svgrepo.com/show/368858/nextjs.svg">
+  <img align="center" alt="mongodb-icon" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
   <img align="right" alt="dark-souls-solaire" height="150" style="border-radius:50px" src="https://img001.prntscr.com/file/img001/6C4DAKHuTHqcFP6hj3KTSw.png">
 </div>
   
